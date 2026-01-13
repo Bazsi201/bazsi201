@@ -3,9 +3,9 @@
     Thanks for checking out my GitHub profile.
 -->
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,6,12,18&height=120&section=header" />
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:3b82f6&height=120&section=header" />
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=24&pause=800&color=00D4FF&width=700&lines=Hi%2C+I'm+Balázs+Mihály;Programming+%26+Data+Science+MSc+Student;Automation+%7C+Power+Platform+%7C+Data" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=24&pause=800&color=3b82f6&width=700&lines=Hi%2C+I'm+Balázs+Mihály;Programming+%26+Data+Science+MSc+Student;Automation+%7C+Power+Platform+%7C+Data" />
 </a>
 
 ---
@@ -66,4 +66,4 @@ I enjoy building **robust workflows**, **clean data pipelines**, and **practical
 > Practical mindset, strong data foundations, and real-world automation experience.  
 > Open to **junior–medior software, data, or automation roles**.
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0A2540&height=120&section=footer" />
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:3b82f6&height=120&section=footer" />
